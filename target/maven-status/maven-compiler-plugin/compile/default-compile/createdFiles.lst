@@ -1,0 +1,8 @@
+tareas/TareaDetector.class
+principal/Lector.class
+service/TemperaturasFicheroServiceImpl.class
+util/Utilidades.class
+util/LocalDateTimeSerializer.class
+model/Ficha.class
+service/TemperaturasService.class
+service/TemperaturasFactory.class
